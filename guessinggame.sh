@@ -1,5 +1,5 @@
-#! /bin/bash
-
+#!/usr/bin/env bash
+#File:guessginggame.sh
 
 function_guessing_game()
 {
